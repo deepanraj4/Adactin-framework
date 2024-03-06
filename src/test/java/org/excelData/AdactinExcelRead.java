@@ -80,5 +80,6 @@ public static void main(String[] args) throws IOException {
 		
 		System.out.println("pull sucessfull");
 		System.out.println("New branch dev");
+		System.out.println("New QE work Done");
 }
 }
