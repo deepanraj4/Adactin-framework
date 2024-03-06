@@ -77,5 +77,7 @@ public static void main(String[] args) throws IOException {
 		
 		WebElement bookNow = driver.findElement(By.id("book_now"));
 		bookNow.click();
+		
+		System.out.println("pull sucessfull");
 }
 }
